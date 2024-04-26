@@ -1,0 +1,5 @@
+minigpt4 filter=lfs diff=lfs merge=lfs -text
+prompts filter=lfs diff=lfs merge=lfs -text
+train_configs filter=lfs diff=lfs merge=lfs -text
+checkpoint.pth filter=lfs diff=lfs merge=lfs -text
+eval_configs filter=lfs diff=lfs merge=lfs -text
